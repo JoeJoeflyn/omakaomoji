@@ -175,6 +175,12 @@ Item {
 
   ListModel { id: displayModel }
 
+  Process {
+    id: menuRegistrar
+    running: true
+    command: ["python3", Qt.resolvedUrl("register_menu.py").toString().replace("file://", "")]
+  }
+
   FileView {
     path: Qt.resolvedUrl("kaomoji.json").toString().replace("file://", "")
     onLoaded: root.loadKaomoji(text())

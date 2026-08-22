@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "omakaomoji",
   "name": "Kaomoji",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "JoeJoeflyn",
   "license": "MIT",
   "description": "Fast native Japanese kaomoji picker & emoticon search for Omarchy — (◕‿◕)",

@@ -42,19 +42,8 @@ bind = SUPER ALT, K, exec, omarchy-shell shell toggle omakaomoji
 
 ## 🚀 Omarchy Menu Integration (`Super + Space`)
 
-To make Kaomoji searchable in your Omarchy application menu (`Super + Space`), add this to `~/.config/omarchy/extensions/omarchy-menu.jsonc`:
-
-```jsonc
-{
-  "trigger.kaomoji": {
-    "icon": "ツ",
-    "label": "Kaomoji",
-    "aliases": ["kaomoji", "emoticon", "facemoji", "ascii", "face"],
-    "action": "omarchy-shell shell toggle omakaomoji",
-    "description": "Japanese text faces & emoticons — (◕‿◕)"
-  }
-}
-```
+Kaomoji **automatically integrates** into your Omarchy menu upon install!
+Press `Super + Space` $\rightarrow$ **Trigger** $\rightarrow$ **Kaomoji** or search `kaomoji` / `emoticon` directly from the launcher.
 
 ---
 
