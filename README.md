@@ -56,6 +56,14 @@ To make Kaomoji searchable in your Omarchy application menu (`Super + Space`), a
 
 ---
 
+## 🗑️ Removal
+
+```bash
+omarchy plugin remove omakaomoji
+```
+
+---
+
 ## 📜 License
 
 [MIT License](LICENSE) © 2026 JoeJoeflyn
