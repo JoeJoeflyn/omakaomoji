@@ -46,7 +46,7 @@ To make Kaomoji searchable in your Omarchy application menu (`Super + Space`), a
 
 ```jsonc
 {
-  "kaomoji": {
+  "trigger.kaomoji": {
     "icon": "ツ",
     "label": "Kaomoji",
     "aliases": ["kaomoji", "emoticon", "facemoji", "ascii", "face"],
