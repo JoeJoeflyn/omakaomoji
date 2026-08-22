@@ -4,8 +4,7 @@ A fast, lightweight, and native Japanese Kaomoji & Emoticon picker for **[Omarch
 
 `¯\_(ツ)_/¯` `(｡♥‿♥｡)` `(╯°□°）╯︵ ┻━┻` `ʕっ•ᴥ•ʔっ` `( ͡° ͜ʖ ͡°)`
 
-![Kaomoji Preview](preview.png)
-
+<img width="800" height="430" alt="screenrecording-2026-08-22_16-25-40-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8315fd08-2d3e-43f8-b3ff-cf2dba9f674e" />
 ---
 
 ## ✨ Features
