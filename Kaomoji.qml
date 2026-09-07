@@ -169,7 +169,7 @@ Item {
   function applySelected(k) {
     if (!k) return
     root.dismiss()
-    var insertCmd = root.omarchyPath ? (root.omarchyPath + "/bin/omarchy-menu-emoji-insert") : "/usr/share/omarchy/bin/omarchy-menu-emoji-insert"
+    var insertCmd = Qt.resolvedUrl("insert.sh").toString().replace("file://", "")
     Quickshell.execDetached([insertCmd, k])
   }
 
